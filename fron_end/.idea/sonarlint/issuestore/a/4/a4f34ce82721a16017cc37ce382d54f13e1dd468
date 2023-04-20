@@ -1,0 +1,9 @@
+
+c
+java:S1192"HDefine a constant instead of duplicating this literal " goto L" 3 times.(¼ûžËùÿÿÿÿ
+d
+java:S1104"NMake op a static final constant or non-public and provide accessors if needed.(ã¡Çÿ
+k
+java:S1104	"PMake type a static final constant or non-public and provide accessors if needed.(±§¦žþÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Åñ­õþÿÿÿÿ

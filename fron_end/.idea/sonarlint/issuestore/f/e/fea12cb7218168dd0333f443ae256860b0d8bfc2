@@ -1,0 +1,23 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÿÅõĞûÿÿÿÿ8Å¡¾ïù0
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÿÅõĞûÿÿÿÿ8Å¡¾ïù0
+z	java:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(ÛúÂ¦ûÿÿÿÿ8Å¡¾ïù0
+r
+java:S1104"PMake line a static final constant or non-public and provide accessors if needed.(”·²ùÿÿÿÿ8Å¡¾ïù0
+L
+java:S1444"*Make this "public static line" field final(”·²ùÿÿÿÿ8Å¡¾ïù0
+x
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ÿÅõĞûÿÿÿÿ8¡¥¾ïù0
+
+java:S1149m"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡Ÿƒ½ûÿÿÿÿ8¡¥¾ïù0
+t
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(Š·Åİÿÿÿÿÿ8°¥¾ïù0
+8
+java:S3626+"Remove this redundant jump.(ÉŠ©ƒ8°¥¾ïù0
+S
+java:S2696-"6Make the enclosing method "static" or remove this set.(’Èàƒ8°¥¾ïù0
+>	java:S1312""Add a default case to this switch.(©îçÂ8°¥¾ïù0
+<
+java:S1659a"Declare "d" on a separate line.(Áê•Î8À¥¾ïù0
