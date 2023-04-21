@@ -1,0 +1,12 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¿»…´ÿÿÿÿÿ8„Ôş•ú0
+@
+java:S1659"#Declare "after" on a separate line.(ÆŒÊ³8ÆÔş•ú0
+C
+java:S1659*"!Declare "tok" on a separate line.(õ”Ÿ€şÿÿÿÿ8ÍÔş•ú0
+Z
+java:S1659K">Declare "s" and all following declarations on a separate line.(ëãú8×Ôş•ú0
+B
+java:S1481K"&Remove this unused "s" local variable.(ëãú8×Ôş•ú0
+A
+java:S1659x"Declare "t" on a separate line.(„ÕŞ¦øÿÿÿÿ8åÔş•ú0
